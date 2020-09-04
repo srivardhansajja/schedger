@@ -15,15 +15,6 @@ h1,h2,h3,h4,h5,h6 {
     /* font-weight: bold; */
 }
 
-.contact-error {
-    font-family: 'PT Sans', sans-serif;
-    color: crimson;
-}
-
-.accordian-border {
-    border-bottom: 3px solid #f62
-}
-
 .table > tbody > tr > td {
     vertical-align: middle;
 }
